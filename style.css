@@ -113,7 +113,7 @@ nav ul li a:hover {
 
 .card h3 {
     margin-bottom: 15px;
-    color: #222831;
+    color: #fbd8d8;
 }
 
 .card p {
@@ -123,7 +123,7 @@ nav ul li a:hover {
 
 /* Footer Styling */
 footer {
-    background-color: #222831;
+    background-color: pink;
     color: #fff;
     text-align: center;
     padding: 40px 10%;
