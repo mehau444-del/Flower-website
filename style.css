@@ -40,7 +40,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #00adb5;
+    color: pink;
 }
 
 /* Hero Section Styling */
@@ -65,7 +65,7 @@ nav ul li a:hover {
 }
 
 .btn {
-    background-color: #00adb5;
+    background-color: lightpink;
     color: #fff;
     padding: 12px 30px;
     text-decoration: none;
@@ -75,7 +75,7 @@ nav ul li a:hover {
 }
 
 .btn:hover {
-    background-color: #007c82;
+    background-color: pink;
 }
 
 /* Services Section Styling */
@@ -117,7 +117,7 @@ nav ul li a:hover {
 }
 
 .card p {
-    color: #666;
+    color: cornsilk;
     line-height: 1.6;
 }
 
